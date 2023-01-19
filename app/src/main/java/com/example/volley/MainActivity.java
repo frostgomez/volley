@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         GET();
 
     }
+    //funcion para capturar Json
     private void GET(){
 
         // Instantiate the RequestQueue.
